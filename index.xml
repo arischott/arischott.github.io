@@ -10,5 +10,34 @@
 	<atom:link href="https://arischott.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
+    <item>
+      <title>Projects</title>
+      <link>https://arischott.github.io/projects/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arischott.github.io/projects/</guid>
+      <description>Page coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Resources</title>
+      <link>https://arischott.github.io/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arischott.github.io/resources/</guid>
+      <description>Page coming soon.</description>
+    </item>
+    
+    <item>
+      <title>Resumé</title>
+      <link>https://arischott.github.io/resume/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://arischott.github.io/resume/</guid>
+      <description>SKILLS  Beginner coding experience  Java HTML   Photo/video editing experience  GIMP DaVinci Resolve 16   Musical experience  Piano Trombone      EXPERIENCE Phoenix Country Day School - Summer Program, Paradise Valley AZ 2016 - 2019
+ Wood shop Photography Photoshop Lego Robotics Cooking  Arizona State University - Digital Culture Summer Institute, Tempe AZ 2019
+ Programming with Max 8 Video editing with Premiere Pro 2D game design with Unity  Ingleside Middle School, Phoenix AZ AUGUST 2018 - CURRENT</description>
+    </item>
+    
   </channel>
 </rss>
